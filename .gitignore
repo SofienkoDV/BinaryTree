@@ -1,0 +1,23 @@
+# .idea/
+# IntelliJ IDEA project files
+.idea/
+
+# *.iml
+# IntelliJ IDEA module files
+*.iml
+
+# *.ipr
+# IntelliJ IDEA project files
+*.ipr
+
+# *.iws
+# IntelliJ IDEA workspace files
+*.iws
+
+# .DS_Store
+# Mac OS X file system metadata files
+.DS_Store
+
+# Thumbs.db
+# Windows file system metadata files
+Thumbs.db
